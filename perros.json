@@ -1,0 +1,24 @@
+perros<--(COLLECTION)
+[
+(DOCUMENT)-->{
+	(FILE)-->"_id"=1,
+	"nombre"="theo",
+	"raza"="basent house",
+	"tamaño"="grande",
+	"edad"="4años"
+},
+{
+	"_id"=2,
+	"nombre"="matias"
+	"raza"="bull dog",
+	"tamaño"="mediana",
+	"edad"="2años"
+},
+{
+	"_id"=3,
+	"nombre"="aron",
+	"raza"="bull terry",
+	"tamaño"="pequeña"
+	"edad"="3años"
+}
+]
